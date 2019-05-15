@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Community Start Kit Course
+- Uses Mona
+- Just working through it
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- GitHub learning courses
+- Community starter
+- Mona based
 
 ## Getting started
 
